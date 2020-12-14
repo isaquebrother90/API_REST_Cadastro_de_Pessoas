@@ -1,4 +1,4 @@
-#Desenvolvimento de API Rest para cadastro de pessoas
+# Desenvolvimento de API Rest para cadastro de pessoas
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados
